@@ -3,8 +3,6 @@
 import argparse
 import math
 
-# if prices[outer_index] > prices[inner_index]:
-
 
 def find_max_profit(prices):
     max_diff = -math.inf
